@@ -1,11 +1,11 @@
 * {
-    color: #ffffff;
+    color: rgba(240, 233, 228, 0.6);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
         'Lucida Sans', Arial, sans-serif;
 }
 
 body {
-    background-color: #121213;
+    background-color: rgba(152, 116, 95, 0.6);
 }
 
 .game-container {
@@ -97,16 +97,16 @@ body {
 }
 
 .grey-overlay {
-    background-color: #3a3a3c !important;
+    background-color: #59595c !important;
     border: none !important;
 }
 
 .yellow-overlay {
-    background-color: #b59f3a !important;
+    background-color: #a8984f !important;
     border: none !important;
 }
 
 .green-overlay {
-    background-color: #538d4e !important;
+    background-color: #7c9779 !important;
     border: none !important;
 }
